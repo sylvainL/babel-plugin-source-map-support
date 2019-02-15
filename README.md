@@ -2,12 +2,14 @@
 
 add a header to automatically require node-source-map-support to the start of the transpiled code
 
-## Installation
+## Getting Started
+
+### Installation
 ```bash
 $ npm install babel-plugin-node-source-map-support
 ```
 
-## Example
+### Example
 
 ```javascript
 {
